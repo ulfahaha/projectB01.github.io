@@ -59,11 +59,15 @@
     footer {
         width: 100%;
         text-align: center;
+    }
+    
+    footer p {
         font-size:8px;
     }
     
     .btn {
         width: 100%;
+        display:none;
     }
 
     .main-title {
