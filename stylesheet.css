@@ -27,8 +27,12 @@ header {
 }
 
 .main-header {
-  padding-top: 10px;
+  padding-top: 40px;
   text-align: center;
+}
+
+.main-header img {
+  width:100%;
 }
 
 .main-title {
