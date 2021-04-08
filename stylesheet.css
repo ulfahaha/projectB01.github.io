@@ -17,10 +17,6 @@ header {
     position: fixed;
 }
 
-.main {
-    width:100%;
-}
-
 .main-header {
     padding-top: 70px;
     text-align: center;
