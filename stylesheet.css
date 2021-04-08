@@ -13,8 +13,9 @@ a {
 header {
   width: 100%;
   background-color: #bde8fa;
-  height: 65px;
-  margin: 0 auto;  
+  height: 85px;
+  margin: 0 auto; 
+  position:fixed;
 }
 
 .main{
