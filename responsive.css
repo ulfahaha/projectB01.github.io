@@ -3,29 +3,29 @@
 /* Tambahkan breakpoint max-width: 1000px */
 @media ( max-width: 1000px) {
     /* Tambahkan CSS untuk lesson */
-    .contents-item{
+    .contents-item {
       width:50%;
       margin-bottom:40px;
     }
 
     .main-footer li{
       font-size:10px;
-    
     }
+    
     .logo {
       float:left;
       padding-left:30px;
-      padding-right:20px;
-      
+      padding-right:20px;  
     }
+    
     .tombol {
       padding:10px 10px;
     }
 
     .main-title {
-        text-align: center;
-        width: relative;
-        height: auto;  
+      text-align: center;
+      width: relative;
+      height: auto;  
     }  
 
     .main-title p {
@@ -41,18 +41,16 @@
         padding-top: 15px;
         text-align: left;
     }
-    
   }
   
 
 /* For Smartphones */
 
 @media (max-width: 670px) {
-   
+    
     .main-content {
         width: 100%;
     }
-    
   
     footer {
         width: 100%;
@@ -63,7 +61,6 @@
         width: 100%;
     }
 
-
     .main-title {
         text-align: center;
         width: relative;
@@ -73,8 +70,7 @@
     .nav-bar {
         display: none;
       }
-
-   
+    
     span.menu-icon {
         display: block;
       }
@@ -106,7 +102,7 @@
     .contents-item {
         width: 100%;
         margin-bottom:40px;
-    }
+     }
   
     .main-footer {
         width: 100%;
@@ -114,45 +110,43 @@
         background-color:white;
         padding-top: 15px;
         text-align: relative;
-      }
+     }
 
-      .main-footer p {
+     .main-footer p {
         font-weight: bold;
         font-family:"Trattatello";
         font-size: 14px;
-      }
+     }
       
-      .main-footer span {
+     .main-footer span {
         color:#6eacf4;
         font-size: 24px;
-      }
+     }
       
-      h5 {
+     h5 {
         color:palevioletred;
         font-size: 12px;
         padding-bottom: 60px;
-      }
+     }
       
-      table {
+     table {
         position: relative;
         padding: 3px;
-      }
+     }
       
-      td {
+     td {
         padding: 1px
-      }
+     }
       
-      .judul {
+     .judul {
         font-weight: bold;
         color:teal;
         padding-top: 5px;
         text-align: left;
-      }
+     }
       
-      .main-footer li {
+     .main-footer li {
         line-height: auto;
         text-align: left;
-      }
-      
-    
+     }
   }
