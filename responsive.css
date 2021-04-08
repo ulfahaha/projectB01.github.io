@@ -129,7 +129,6 @@
      .main-footer p {
         font-weight: bold;
         font-family:"Trattatello";
-        font-size: 8px;
      }
       
      .main-footer span {
@@ -162,5 +161,6 @@
      .main-footer li {
         line-height: auto;
         text-align: left;
+        font-size: 8px;
      }
   }
