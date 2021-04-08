@@ -52,6 +52,10 @@
         width: 100%;
     }
     
+    .main-header {
+        padding-top:30px;
+    }
+    
     header {
         width:100%;
         position:fixed;
