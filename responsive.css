@@ -4,4 +4,8 @@
         width:50%;
         margin-bottom: 20px;
     }
+    
+    .main-footer li {
+        font-size:10px;
+    }
 }
