@@ -16,6 +16,8 @@ header {
   height: 85px;
   margin: 0 auto; 
   position:fixed;
+  top:0;
+  z-index:10px;
 }
 
 .main{
