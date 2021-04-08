@@ -52,6 +52,11 @@
         width: 100%;
     }
     
+    header {
+        width:100%;
+        position:fixed;
+    }
+    
     .tombol {
         display:none;
     }
@@ -91,7 +96,7 @@
     }
  
     .main-title h1 {
-        font-size: 40px;
+        font-size: 50px;
         line-height: 36px;
         text-align: center;
     }
@@ -110,7 +115,7 @@
 
     .contents-item {
         width: 100%;
-        margin-bottom:40px;
+        margin-bottom:20px;
      }
   
     .main-footer {
@@ -124,7 +129,7 @@
      .main-footer p {
         font-weight: bold;
         font-family:"Trattatello";
-        font-size: 14px;
+        font-size: 8px;
      }
       
      .main-footer span {
@@ -134,13 +139,13 @@
       
      h5 {
         color:palevioletred;
-        font-size: 12px;
-        padding-bottom: 60px;
+        font-size: 10px;
+        padding-bottom: 90px;
      }
       
      table {
         position: relative;
-        padding: 3px;
+        padding: 1px;
      }
       
      td {
