@@ -27,12 +27,8 @@ header {
 }
 
 .main-header {
-  padding-top: 2px;
+  padding-top: 10px;
   text-align: center;
-}
-
-.main-header img {
-  width: 70%
 }
 
 .main-title {
