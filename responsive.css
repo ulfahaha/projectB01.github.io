@@ -51,11 +51,15 @@
     .main-content {
         width: 100%;
     }
+    
+    .tombol {
+        display:none;
+    }
   
     footer {
         width: 100%;
         text-align: center;
-        font-size:14px;
+        font-size:8px;
     }
     
     .btn {
