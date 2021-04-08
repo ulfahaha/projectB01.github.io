@@ -1,1 +1,7 @@
-
+/* Untuk Tablets */
+@media (max-width:1000px) {
+    .contents-item {
+        width:50%;
+        margin-bottom: 40px;
+    }
+}
