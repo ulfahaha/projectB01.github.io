@@ -13,7 +13,7 @@ a {
 header {
   width: 100%;
   background-color: #bde8fa;
-  
+  height: 85px;
   margin: 0 auto; 
   position:fixed;
   top:0;
@@ -84,7 +84,7 @@ li {
 }
 
 .nav-bar li {
-  line-height: 65px;
+  line-height: 55px;
   padding: 0 25px;
   float: left;
   margin: 0 auto;
@@ -113,7 +113,7 @@ li {
 }
 
 .tombol {
-  padding:15px 25px;
+  padding:5px 25px;
 }
 
 .main-content {
