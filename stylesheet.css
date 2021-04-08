@@ -84,8 +84,8 @@ li {
 }
 
 .nav-bar li {
-  line-height: 40px;
-  padding: 0 125px;
+  line-height: 65px;
+  padding: 5 25px;
   float: left;
   margin: 0 auto;
 }
